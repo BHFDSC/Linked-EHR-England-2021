@@ -4,6 +4,7 @@ This repository contains analytic code related to the manuscript ["Linked electr
 
 ## How to cite this work
 
+Example: Author AN, Author BT. 2019. My article title. medRxiv doi: 10.1101/2019.12.11.12345678
 
 ## Code
 
