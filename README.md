@@ -5,6 +5,9 @@ This repository contains analytic code related to the manuscript ["Linked electr
 ## How to cite this work
 
 
+## Code
+
+Analysis code and phenotype code lists will be uploaded to this repository in the coming days.
 
 ## License
 
