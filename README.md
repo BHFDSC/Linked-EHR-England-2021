@@ -1,6 +1,6 @@
 # Linked electronic health records for research on a nationwide cohort including over 54 million people in England
 
-This repository contains analytic code related to the manuscript "Linked electronic health records for research on a nationwide cohort including over 54 million people in England" produced by the CVD-COVID-UK consortium.
+This repository contains analytic code related to the manuscript ["Linked electronic health records for research on a nationwide cohort including over 54 million people in England"](https://www.medrxiv.org/content/10.1101/2021.02.22.21252185v1) produced by the CVD-COVID-UK consortium.
 
 ## How to cite this work
 
