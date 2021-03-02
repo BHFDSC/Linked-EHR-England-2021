@@ -8,7 +8,9 @@ Wood A, Denholm R, Hollings S, Cooper JA, Ip S, Walker V, Denaxas S, Akbari A, S
 
 ## Code
 
-Analysis code and phenotype code lists will be uploaded to this repository in the coming days.
+Analysis code can be found [here](https://github.com/BHFDSC/Linked-EHR-England-2021/tree/main/Code) 
+
+Phenotype code lists will be uploaded to this repository in the coming days.
 
 ## License
 
