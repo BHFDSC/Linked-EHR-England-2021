@@ -7,8 +7,8 @@ You can find more information on the datasets that are used in the CVD-COVID-UK 
 
 Phenotypes are defined using three different controlled terminologies:
 
-* SNOMED-CT used in the GDPPPR primary care dataset
-* ICD-10 used in hospitalization records and mortality
+* SNOMED-CT used in the [General Practice Extraction Service (GPES) Data for pandemic planning and research (GDPPR)](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-for-analysts-and-users-of-the-data) primary care dataset
+* ICD-10 used in hospitalization records from Hospital Episode Statistics (HES) and Office for National Statistics (ONS) mortality
 
 | Phenotype | File name | SNOMED-CT | ICD-10 |
 | --------- | ---------- | -------| -------|
