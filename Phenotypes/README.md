@@ -10,6 +10,8 @@ Phenotypes are defined using two clinical terminologies:
 * SNOMED-CT used in the [General Practice Extraction Service (GPES) Data for pandemic planning and research (GDPPR)](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-for-analysts-and-users-of-the-data) primary care dataset
 * ICD-10 used in hospitalization records from Hospital Episode Statistics (HES) and Office for National Statistics (ONS) mortality
 
+Phenotyping algorithms based on existing definitions include a relevant reference. Algorithms created de novo by the study team are marked with a `✔`. 
+
 Phenotypes include a `flag` field denoting incident (`flag=1`) or prevalent (`flag=0`) events.
 
 | Phenotype | File name | SNOMED-CT | ICD-10 |
