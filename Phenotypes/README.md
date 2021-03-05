@@ -5,7 +5,7 @@ Electronic health record phenotyping algorithms for defining diseases, lifestyle
 You can find more information on the datasets that are used in the CVD-COVID-UK dataset on the
 [HDR Gateway](https://web.www.healthdatagateway.org/collection/3975719127757711).
 
-Phenotypes are defined using three different controlled terminologies:
+Phenotypes are defined using two clinical terminologies:
 
 * SNOMED-CT used in the [General Practice Extraction Service (GPES) Data for pandemic planning and research (GDPPR)](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-for-analysts-and-users-of-the-data) primary care dataset
 * ICD-10 used in hospitalization records from Hospital Episode Statistics (HES) and Office for National Statistics (ONS) mortality
