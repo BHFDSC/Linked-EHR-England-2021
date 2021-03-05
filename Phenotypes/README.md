@@ -10,12 +10,14 @@ Phenotypes are defined using two clinical terminologies:
 * SNOMED-CT used in the [General Practice Extraction Service (GPES) Data for pandemic planning and research (GDPPR)](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-for-analysts-and-users-of-the-data) primary care dataset
 * ICD-10 used in hospitalization records from Hospital Episode Statistics (HES) and Office for National Statistics (ONS) mortality
 
+Phenotypes include a `flag` field denoting incident (`flag=1`) or prevalent (`flag=0`) events.
+
 | Phenotype | File name | SNOMED-CT | ICD-10 |
 | --------- | ---------- | -------| -------|
 | Acute myocardial infarction | AMI | ✔ | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | |  |
-| Obesity                     | obesity | ✔ | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype |            
+| Obesity                     | obesity | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype |            
 | Diabetes                    | diabetes | ✔ | ✔ | 
-| Life threatening arrhythmias | arrhythmia |  |  ✔ | 
+| Life threatening arrhythmias | arrhythmia |  |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | 
 | Stroke haemmorhagic         | stroke_HS |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | | |  |
 | Stroke ischaemic            | stroke_IS |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | ||  |
 | Stroke unspecified          | stroke_NOS |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | ||  |
