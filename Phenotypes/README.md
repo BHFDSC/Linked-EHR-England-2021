@@ -16,7 +16,7 @@ Phenotypes include a `flag` field denoting incident (`flag=1`) or prevalent (`fl
 | --------- | ---------- | -------| -------|
 | Acute myocardial infarction | AMI | ✔ | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | |  |
 | Obesity                     | obesity | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype |            
-| Diabetes                    | diabetes | ✔ | ✔ | 
+| Diabetes                    | diabetes | ✔ | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | 
 | Life threatening arrhythmias | arrhythmia |  |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | 
 | Stroke haemmorhagic         | stroke_HS |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | | |  |
 | Stroke ischaemic            | stroke_IS |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | ||  |
