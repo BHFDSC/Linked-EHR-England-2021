@@ -26,3 +26,4 @@ Phenotypes include a `flag` field denoting incident (`flag=1`) or prevalent (`fl
 | Stroke SAH                  | stroke_SAH |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | ||  |
 | Stroke TIA                  | stroke_TIA |  ✔ |  Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | | |  |
 | COVID-19 infection          | COVID19 |  ✔ | ✔ |
+| Venous thromboembolic disease | DVT | | Based on [CALIBER](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext) phenotype | | |  |
