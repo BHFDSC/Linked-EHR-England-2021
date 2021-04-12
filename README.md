@@ -4,7 +4,7 @@ This repository contains analytic code related to the manuscript ["Linked electr
 
 ## How to cite this work
 
-Wood A, Denholm R, Hollings S, Cooper JA, Ip S, Walker V, Denaxas S, Akbari A, Sterne J, Sudlow C, CVD-COVID-UK Consortium. 2021. Linking electronic health records for research on a nationwide cohort including over 54 million people in England. medRxiv doi: 10.1101/2021.02.22.21252185
+Wood A, Denholm R, Hollings S, Cooper JA, Ip S, Walker V, Denaxas S, Akbari A, Banerjee A, Whiteley W, Lai A, Sterne J, Sudlow C, CVD-COVID-UK Consortium. 2021. Linked electronic health records for research on a nationwide cohort of more than 54 million people in England: data resource. BMJ 2021;373:n826.
 
 ## Code
 
